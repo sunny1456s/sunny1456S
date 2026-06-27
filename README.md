@@ -9,5 +9,4 @@ I am an IT engineering student with hands-on experience in both full-stack softw
 ![](https://streak-stats.demolab.com/?user=sunny1456s&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sunny1456s&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radi
+
